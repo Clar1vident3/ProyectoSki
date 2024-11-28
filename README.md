@@ -14,8 +14,8 @@ El sistema se enfoca en la gestión de los siguientes aspectos dentro del Centro
 ## Características
 
 - **Alta, baja y modificación** de registros de alumnos, profesores, pagos y materias.
-- **Consultas** para obtener información relevante como el historial de pagos de un alumno, las materias asignadas a un profesor.
-- **Control de pagos**: Monitoreo del estado de los pagos de los alumnos, permitiendo realizar actualizaciones y verificar su estado.
+- **Consultas** para obtener información relevante como el historial de pagos de un alumno, las materias asignadas a un profesor o el estado de los pagos de los alumnos,
+  permitiendo realizar actualizaciones y verificar su estado.
 
 ## Tecnologías utilizadas
 
