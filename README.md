@@ -1,6 +1,14 @@
-# Gestión de Base de Datos - Centro Cultural Hotaru
+
+# Api Centro Cultural Hotaru
 
 Este proyecto consiste en la creación de un sistema sencillo para gestionar la información relacionada con los alumnos, profesores, pagos y materias dentro del **Centro Cultural Hotaru**. El objetivo es ofrecer una herramienta básica para almacenar, consultar y actualizar la información de manera eficiente.
+
+## Integrantes:
+- **Chavez Bello Diego Damian**
+- **Cordero Tovar Fernando Alexis**
+- **Escamilla Cuevas Jose Octavio**
+- **Perez Noyola Juan Pablo**
+- **Ramirez Herrera Francisco**
 
 ## Descripción
 
